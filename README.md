@@ -2,7 +2,7 @@
 	<h1>Hi there, I'm Ivan</h1>
 	<h3>C++ Developer from Odessa</h3>
 </div>
-<a href="linkedin-url">
+<a href="https://www.linkedin.com/in/ivan-voloshyn-096715225/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!--
