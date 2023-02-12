@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Ivan</h1>
+	<h3>C++ Developer from Odessa</h3>
+</div>
 
 <!--
 **steinerivan/steinerivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
