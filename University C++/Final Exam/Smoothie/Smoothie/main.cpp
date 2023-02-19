@@ -5,7 +5,7 @@
 //  Created by Ivan Voloshyn on 28.01.23.
 //
 
-#include"smoothie.h"
+#include"smoothie.hpp"
 using namespace std;
 
 int main() {
