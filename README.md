@@ -18,7 +18,7 @@
 
 ### About me
 - 🌱 I’m currently learning Computer Science and Economics
-- 📄 Know about my experiences [CV]()
+- 📄 Know about my experiences [CV](https://www.canva.com/design/DAFaFtfUtsE/dymFEB1Q28bNhrlwX_dTsA/edit?utm_content=DAFaFtfUtsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ivan-voloshyn-096715225/), [email](mailto:voloshynofficial@gmail.com)
 - 🌍 I speak English, German, Russian and Ukrainian
 
